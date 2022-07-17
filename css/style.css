@@ -353,6 +353,8 @@ form > button {
   letter-spacing: 0.03em;
   border-radius: 8px;
   transition: all ease-in-out 0.2s;
+  border: 1px solid gray;
+  margin: 0 auto;
 }
 
 form > button:hover {
