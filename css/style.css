@@ -37,6 +37,7 @@ nav {
   position: fixed;
   top: 0;
   width: calc(100% - 60px);
+  z-index: 3;
 }
 
 .logo {
@@ -146,7 +147,7 @@ a {
 /* image animation */
 
 .shot-img:hover {
-  transform: scale(1.2);
+  transform: scale(1.05);
   z-index: 2;
 }
 
